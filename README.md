@@ -45,5 +45,3 @@ ctest --test-dir build -C Release --output-on-failure
 - `output/smoothed_path.csv`: collision-free shortcut path
 - `output/trajectory.csv`: time, position, velocity, acceleration, yaw, and pitch
 - `output/obstacles.csv`: obstacle geometry used by the visualizer
-
-The project layout and separate C++/Python workflow follow the style of the related [Trajectory Optimization Using MPC](https://github.com/Rubo12345/Trajectory-Optimization-Using-Model-Predictive-Control) project.
