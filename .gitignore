@@ -1,0 +1,6 @@
+build/
+output/*.csv
+output/*.png
+*.gif
+*.mp4
+__pycache__/
